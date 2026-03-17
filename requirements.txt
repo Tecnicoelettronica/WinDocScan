@@ -1,0 +1,6 @@
+opencv-python
+numpy
+Pillow
+pyinstaller
+customtkinter
+pywin32; platform_system=="Windows"
