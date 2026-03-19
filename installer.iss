@@ -1,6 +1,6 @@
 ; Inno Setup script - WINDOCSCAN
 #define MyAppName "WINDOCSCAN"
-#define MyAppVersion "7.6.1"
+#define MyAppVersion "7.6.2"
 #define MyAppPublisher "Andrea"
 #define MyAppExeName "WINDOCSCAN.exe"
 [Setup]
@@ -12,7 +12,7 @@ DefaultDirName={autopf}\{#MyAppName}
 DefaultGroupName={#MyAppName}
 DisableProgramGroupPage=yes
 OutputDir=installer_output
-OutputBaseFilename=WINDOCSCAN_v7_6_Setup
+OutputBaseFilename=WINDOCSCAN_v7_6_2_Setup
 Compression=lzma
 SolidCompression=yes
 WizardStyle=modern

@@ -4,3 +4,7 @@ Pillow
 pyinstaller
 customtkinter
 pywin32; platform_system=="Windows"
+
+windnd; platform_system=="Windows"
+
+PyMuPDF
